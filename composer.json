@@ -1,0 +1,16 @@
+{
+    "name": "bradtreloar/bootstrap_base",
+    "description": "Drupal base theme providing a basis for making custom themes using Bootstrap Sass.",
+    "type": "drupal-theme",
+    "license": "GPL-2.0+",
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://packages.drupal.org/8"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.8",
+        "drupal/core": "~8"
+    }
+}

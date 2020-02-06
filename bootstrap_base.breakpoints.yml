@@ -1,0 +1,30 @@
+bootstrap_base.xs:
+  label: xs
+  mediaQuery: 'only screen and (min-width: 0)'
+  weight: 0
+  multipliers:
+    - 1x
+bootstrap_base.sm:
+  label: sm
+  mediaQuery: 'only screen and (min-width: 576px)'
+  weight: 0
+  multipliers:
+    - 1x
+bootstrap_base.md:
+  label: md
+  mediaQuery: 'only screen and (min-width: 768px)'
+  weight: 1
+  multipliers:
+    - 1x
+bootstrap_base.lg:
+  label: lg
+  mediaQuery: 'only screen and (min-width: 992px)'
+  weight: 2
+  multipliers:
+    - 1x
+bootstrap_base.xl:
+  label: xlarge
+  mediaQuery: 'only screen and (min-width: 1200px)'
+  weight: 3
+  multipliers:
+    - 1x

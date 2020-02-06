@@ -1,0 +1,10 @@
+
+bootstrap:
+  js:
+    "//stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js": { type: external, minified: true }
+    "//cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js": { type: external, minified: true }
+  css:
+    base:
+      "//stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css": { type: external, minified: true }
+  dependencies:
+    - core/jquery

@@ -1,0 +1,18 @@
+name: Bootstrap Base
+type: theme
+description: Drupal base theme providing a basis for making custom themes using Bootstrap Sass.
+core: 8.x
+
+base theme: stable
+
+libraries:
+  - bootstrap_base/bootstrap
+
+regions:
+  branding: Branding
+  navbar: Navbar
+  content: Content
+  footer: Footer
+
+features:
+  - favicon
