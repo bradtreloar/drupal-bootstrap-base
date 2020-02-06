@@ -1,6 +1,6 @@
 # Bootstrap Base
 
-This base theme for Drupal  Bootstrap Sass
+Drupal base theme providing a basis for making custom themes using Bootstrap Sass.
 
 This base theme provides the following:
 - Template overrides implementing Bootstrap UI components and utilities.
